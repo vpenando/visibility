@@ -1,2 +1,2 @@
 # visibility
-Sample package showing the use of the "internal" folder
+Sample module showing the use of the "internal" folder
